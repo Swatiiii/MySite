@@ -1,0 +1,176 @@
+
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-weight: 500;
+    line-height: 2;
+     color: #66BFBF;
+}
+h2{
+    color:#66BFBF;
+    text-align: center;
+    font-weight: normal;
+}
+hr{
+    /* border-style:dotted 6px; */
+    border: dotted 6px;
+    width: 10%;
+    border-bottom:none ;
+    margin: 70px auto;
+}
+.img1{
+    height: 100px;
+    width: 351px;
+    color: #45b29a;
+    position: relative;
+    top: 20px;
+}
+.img3{
+    height: 100px;
+    width: 351px;
+    color: #45b29a;
+    position: absolute;
+    right: 60px;
+    top: 20px;
+}
+.img2{
+    height: 417px;
+    width: 517px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color:#66BFBF;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: cadetblue; */
+}
+a:hover{
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+body{
+    background-color:#dbf6e9;
+}
+h1{
+    text-align: center;
+    font-size: 350%;
+}
+p{
+    text-align: center;
+    line-height: 2;
+}
+.profile{
+    text-align: center;
+}
+.skills{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.footer-link{
+    margin: 8px;
+}
+.imgprofile1{
+    display: block;
+    width: 10%;
+    /* float: left;
+    margin-left: 180px;
+    margin-top: -30px; */
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.imgskill{
+    display: block;
+    width: 15%;
+    line-height: 2;
+    position: absolute;
+    margin-left: -215px;
+    margin-top: -80px;
+}
+.imgskillrow{
+        margin-right: 23px;
+        width: 20%;
+        line-height: 3;
+        text-align: left;
+        position: relative;
+        margin-left: 600px;
+    }
+.bottom-container{
+   
+     color:#66BFBF;
+}
+.contact-me{
+    text-align: center;
+     color:#66BFBF;
+}
+.bottom-container{
+    line-height: 5.1;
+    text-align: center;
+}
+.h3skill{
+/* text-align: left; */
+color:#66BFBF;
+margin-top: -70px;
+}
+.profilepara{
+    text-align: center;
+}
+.skillh3{
+    /* text-align: center; */
+    text-align: left;
+color:#66BFBF;
+}
+.myskillspara{
+    line-height: 2;
+}
+.skillrowpara{
+    /* line-height: 2; */
+    text-align: left;
+}
+.skillspara{
+    text-align: left;
+}
+.contactmepara{
+    line-height: 2;
+    width: 40%;
+    margin: 40px auto 40px;
+    color: black;
+}
+.btn {
+    background: #aad4f0;
+    background-image: -webkit-linear-gradient(top, #aad4f0, #297cb0);
+    background-image: -moz-linear-gradient(top, #aad4f0, #297cb0);
+    background-image: -ms-linear-gradient(top, #aad4f0, #297cb0);
+    background-image: -o-linear-gradient(top, #aad4f0, #297cb0);
+    background-image: linear-gradient(to bottom, #aad4f0, #297cb0);
+    -webkit-border-radius: 40;
+    -moz-border-radius: 40;
+    border-radius: 40px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3ccffc;
+    background-image: -webkit-linear-gradient(top, #3ccffc, #3498db);
+    background-image: -moz-linear-gradient(top, #3ccffc, #3498db);
+    background-image: -ms-linear-gradient(top, #3ccffc, #3498db);
+    background-image: -o-linear-gradient(top, #3ccffc, #3498db);
+    background-image: linear-gradient(to bottom, #3ccffc, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+      /* line-height: 3; */
+      margin: 42px auto 10px;
+  }
+  .c{
+      color: black;
+  }
